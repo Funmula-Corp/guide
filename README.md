@@ -2,7 +2,7 @@
 
 BigGo library usage guide
 
-## Get client_id and client_secret
+## Get `client_id` and `client_secret`
 Go to [biggo.com](https://biggo.com/) and register an account.
 
 After having the account, go to [account.biggo.com](https://account.biggo.com/setting/) and do as followed:
